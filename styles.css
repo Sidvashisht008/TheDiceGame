@@ -1,0 +1,18 @@
+body {
+  background-color: #434e52;
+  text-align: center;
+}
+h1{
+  font-size: 6rem;
+  font-family: 'Heebo', sans-serif;
+  color: #29c7ac;
+}
+.dice {
+  display: inline-block;
+  margin: 0 5%;
+}
+p{
+  color: #29c7ac;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
